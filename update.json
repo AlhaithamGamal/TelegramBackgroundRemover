@@ -1,0 +1,47 @@
+{
+    "message": {
+        "channel_chat_created": false,
+        "delete_chat_photo": false,
+        "document": {
+            "file_name": "me.jpg",
+            "mime_type": "image/jpeg",
+            "thumbnail": {
+                "height": 320,
+                "width": 147,
+                "file_id": "AAMCBAADGQEAAzZmnq4Os-ZcMXcbJ_RSiaup2SyrrQAChBQAAkPm-VDK-nGVYgizJAEAB20AAzUE",
+                "file_size": 12322,
+                "file_unique_id": "AQADhBQAAkPm-VBy"
+            },
+            "file_id": "BQACAgQAAxkBAAM2Zp6uDrPmXDF3Gyf0Uomrqdksq60AAoQUAAJD5vlQyvpxlWIIsyQ1BA",
+            "file_size": 165278,
+            "file_unique_id": "AgADhBQAAkPm-VA",
+            "thumb": {
+                "file_id": "AAMCBAADGQEAAzZmnq4Os-ZcMXcbJ_RSiaup2SyrrQAChBQAAkPm-VDK-nGVYgizJAEAB20AAzUE",
+                "file_unique_id": "AQADhBQAAkPm-VBy",
+                "file_size": 12322,
+                "width": 147,
+                "height": 320
+            }
+        },
+        "group_chat_created": false,
+        "supergroup_chat_created": false,
+        "chat": {
+            "first_name": "Haitham",
+            "id": 908484157,
+            "last_name": "Moussa",
+            "type": "private",
+            "username": "Haithamgamal96"
+        },
+        "date": 1721675278,
+        "message_id": 54,
+        "from": {
+            "first_name": "Haitham",
+            "id": 908484157,
+            "is_bot": false,
+            "language_code": "en",
+            "last_name": "Moussa",
+            "username": "Haithamgamal96"
+        }
+    },
+    "update_id": 553419198
+}
